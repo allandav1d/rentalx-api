@@ -1,7 +1,5 @@
 import { Specification } from "../entities/Specification";
 
-// DTO => Data Transfer Object
-
 interface ICreateSpecificationDTO {
   name: string;
   description: string;
